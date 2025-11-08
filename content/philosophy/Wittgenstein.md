@@ -1,0 +1,3 @@
+# Wittgenstein
+
+[[Tractatus]]
